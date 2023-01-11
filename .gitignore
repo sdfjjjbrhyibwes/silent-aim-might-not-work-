@@ -1,41 +1,45 @@
-# Compiled Lua sources
-luac.out
-
-# luarocks build files
-*.src.rock
-*.zip
-*.tar.gz
-
-# Object files
-*.o
-*.os
-*.ko
-*.obj
-*.elf
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Libraries
-*.lib
-*.a
-*.la
-*.lo
-*.def
-*.exp
-
-# Shared objects (inc. Windows DLLs)
-*.dll
-*.so
-*.so.*
-*.dylib
-
-# Executables
-*.exe
-*.out
-*.app
-*.i*86
-*.x86_64
-*.hex
+local plr = game.Players.LocalPlayer
+local mouse = plr:GetMouse()
+local torso = plr.Character.HumanoidRootPart
+local torsoCFrame = torso.CFrame
+local torsoCF = torso.CFrame
+local torsoCFV = torso.CFrame
+local torsoCFA = torso.CFrame
+local torsoCFC = torso.CFrame
+local torsoCFF = torso.CFrame
+local torsoCFFV = torso.CFrame
+local torsoCFVA = torso.CFrame
+local torsoCFVAC = torso.CFrame
+local torsoCFVACF = torso.CFrame
+local torsoCFVACFF = torso.CFrame
+local torsoCFVACFFV = torso.CFrame
+local torsoCFVACFFVA = torso.CFrame
+local torsoCFVACFFVAC = torso.CFrame
+local torsoCFVACFFVACF = torso.CFrame
+local torsoCFVACFFVACFF = torso.CFrame
+local torsoCFVACFFVACFFV = torso.CFrame
+local torsoCFVACFFVACFFVA = torso.CFrame
+local torsoCFVACFFVACFFVAC = torso.CFrame
+local torsoCFVACFFVACFFVACF = torso.CFrame
+local torsoCFVACFFVACFFVACFF = torso.CFrame
+local torsoCFVACFFVACFFVACFFV = torso.CFrame
+local torsoCFVACFFVACFFVACFFVA = torso.CFrame
+local torsoCFVACFFVACFFVACFFVAC = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACF = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFF = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFV = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVA = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVAC = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACF = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFF = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFFV = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFFVA = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFFVAC = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFFVACF = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFFVACFF = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFFVACFFV = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFFVACFFVA = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFFVACFFVAC = torso.CFrame
+local torsoCFVACFFVACFFVACFFVACFFVACFFVACFFVACF = torso.CFrame
+local torsoCF
 
